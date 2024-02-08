@@ -23,8 +23,8 @@ OpenAI LLama Model (for future enhancement)
 Installation
 Clone the repository to your local machine:
 bash
-Copy code
-git clone https://github.com/yourusername/newsbot-chatbot.git
+Copy code:
+git clone https://github.com/ishubham4/NewsBotSummarizer.git
 Install the required Python dependencies using pip:
 bash
 Copy code
