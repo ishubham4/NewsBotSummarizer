@@ -1,4 +1,4 @@
-# NewsBotSummarizer
+# NewsBot
 
 The NewsBot Chatbot is a natural language processing (NLP) powered application designed to provide users with the latest news updates from various regions around the world. This chatbot utilizes the NewsAPI to fetch real-time news articles and summarization techniques using Sumy for efficient content consumption. Additionally, a future enhancement plan includes integrating an open-source language model (LLama model) to further enhance news summarization and user interaction capabilities.
 
